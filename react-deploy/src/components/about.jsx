@@ -20,10 +20,10 @@ class About extends React.Component {
           value: "40",
         },
         {
-          id: "JavaScript_skill",
-          content: "JavaScript",
-          porcentage: "80%",
-          value: "80",
+          id: "Linux_skill",
+          content: "Linux",
+          porcentage: "40%",
+          value: "40",
         },
         { id: "PHP_skill", content: "PHP", porcentage: "50%", value: "50" },
         {
