@@ -34,7 +34,6 @@ class Intro extends React.Component {
                     "Front End Developer",
                     "Back End Developer",
                     "Software Engineer",
-                    "Game Developer",
                     "Electrical Engineering"
                 ]
             }

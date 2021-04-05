@@ -66,7 +66,7 @@ class About extends React.Component {
         {
           id: "second-p-about",
           content:
-            "I love two things in my life first my family and second programming. I am learning everyday about new technologies, programming languages and also  do some sample projects to increase my abilities and skills level in programming. I want to become a legend, because in my opinion just legend can fight and use their abilities in the best way. I have my unique way & learn stuffes that I love. ",
+            "I love two things in my life first my family and second programming. I am learning everyday about new technologies, programming languages and also  do some sample projects to increase my abilities and skills level in programming. I want to become a legend, because in my opinion just legend can fight and use their abilities in the best way. I have my unique way & learn what I want to.",
         },
         {
           id: "third-p-about",
