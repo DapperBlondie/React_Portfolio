@@ -160,7 +160,7 @@ class Contact extends React.Component {
                           </li>
                           <li>
                             <a
-                              href="https://www.linkedin.com/in/alireza-gharib-a65591197"
+                              href="https://www.linkedin.com/in/alireza-gharib"
                               target="_blank"
                               rel="Alireza Gharib"
                             >

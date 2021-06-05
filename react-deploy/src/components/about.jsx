@@ -14,7 +14,7 @@ class About extends React.Component {
           value: "30",
         },
         {
-          id: "Unreal_skill",
+          id: "Golang_skill",
           content: "GoLang",
           porcentage: "70%",
           value: "70",
@@ -22,8 +22,8 @@ class About extends React.Component {
         {
           id: "Linux_skill",
           content: "Linux",
-          porcentage: "40%",
-          value: "40",
+          porcentage: "50%",
+          value: "50",
         },
         { id: "PHP_skill", content: "PHP", porcentage: "50%", value: "50" },
         {
@@ -35,8 +35,14 @@ class About extends React.Component {
         {
           id: "ReactJS_skill",
           content: "ReactJS",
-          porcentage: "70%",
-          value: "70",
+          porcentage: "50%",
+          value: "50",
+        },
+        {
+          id: "Kotlin_skill",
+          content: "Kotlin",
+          porcentage: "50%",
+          value: "50",
         },
         {
           id: "Python_skill",
@@ -51,7 +57,7 @@ class About extends React.Component {
           value: "85",
         },
         {
-          id: "Wordpress_skill",
+          id: "Java_skill",
           content: "Java",
           porcentage: "90%",
           value: "90",
